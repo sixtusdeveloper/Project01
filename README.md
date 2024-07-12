@@ -1,1 +1,1 @@
-This is School Assignment project for a  Software Engineer programme 
+This is a Basic static HTML School project for a Software Engineering program
